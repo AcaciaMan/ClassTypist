@@ -5,7 +5,7 @@ The quick evaluation game is accessible [here](https://g9f3996a8ffd46b-dbgame.ad
 
 User: play
 
-Password: Wel1come
+Password: Wel22come
 
 Obtain a new game id, and players can add themselves to the game by providing game id and self name. The results are available at Results and Overview report. 
 
